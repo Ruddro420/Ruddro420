@@ -21,7 +21,6 @@ I am passionate about creating beautiful and functional websites that are easy t
 
 I am excited about the future of front-end web development and I am eager to continue learning and growing in this field. I believe that front-end web development is a great way to use my skills and creativity to make a difference in the world. 
 
-![Profile views](https://gpvc.arturio.dev/ruddro420)  
 
 
 <br>
